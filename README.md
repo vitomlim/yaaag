@@ -1,2 +1,2 @@
 # yaaig
-Yet another ASCII image generator
+Yet another ASCII art generator
